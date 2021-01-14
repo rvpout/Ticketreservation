@@ -1,0 +1,1 @@
+Nimi:asd,Ikä:22,Valittu lippu:1,Lippujen määrä:2,Premium Asiakas
